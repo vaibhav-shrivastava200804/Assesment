@@ -1,0 +1,20 @@
+.base-node {
+  background: #1f2937;
+  border-radius: 8px;
+  padding: 10px;
+  color: #f9fafb;
+  min-width: 180px;
+}
+
+.base-node-header {
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #374151;
+  padding-bottom: 4px;
+}
+
+.base-node-content {
+  font-size: 13px;
+}
