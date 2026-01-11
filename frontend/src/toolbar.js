@@ -3,9 +3,10 @@ import { DraggableNode } from './draggableNode';
 export const PipelineToolbar = () => {
   return (
     <div style={{ padding: '10px' }}>
+      <h3 style={{ margin: '0 0 10px 0', color: 'black', fontSize: '32px', fontWeight: '600' }}>Nodes</h3>
       <div
         style={{
-          marginTop: '20px',
+          marginTop: '10px',
           display: 'flex',
           flexWrap: 'wrap',
           gap: '10px',
